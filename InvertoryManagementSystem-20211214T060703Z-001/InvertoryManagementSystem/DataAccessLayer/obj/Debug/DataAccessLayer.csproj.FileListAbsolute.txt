@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

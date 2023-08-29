@@ -1,0 +1,50 @@
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\InvertoryManagementSystem.exe.config
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\InvertoryManagementSystem.exe
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\InvertoryManagementSystem.pdb
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.exe
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.pdb
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.ManageUser.resources
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.LoginPage.resources
+C:\Users\ASUS\source\repos\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.HomePage.resources
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\InvertoryManagementSystem.exe.config
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\InvertoryManagementSystem.exe
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\InvertoryManagementSystem.pdb
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\DataAccessLayer.dll
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\DataAccessLayer.pdb
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.csproj.AssemblyReference.cache
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.LoginPage.resources
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.HomePage.resources
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.ManageUser.resources
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.Properties.Resources.resources
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.Report.resources
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.csproj.GenerateResource.cache
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.csproj.CoreCompileInputs.cache
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.csproj.CopyComplete
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.exe
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.pdb
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.ManageStock.resources
+G:\code task\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.ManageProduct.resources
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.csproj.AssemblyReference.cache
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.exe
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.pdb
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\InvertoryManagementSystem.exe.config
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\InvertoryManagementSystem.exe
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\InvertoryManagementSystem.pdb
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\DataAccessLayer.dll
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\bin\Debug\DataAccessLayer.pdb
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.LoginPage.resources
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.HomePage.resources
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.ManageProduct.resources
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.ManageStock.resources
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.ManageUser.resources
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.Properties.Resources.resources
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.Report.resources
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.csproj.GenerateResource.cache
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.csproj.CoreCompileInputs.cache
+E:\codding\c#\Final Project c#\InvertoryManagementSystem-20211214T060703Z-001\InvertoryManagementSystem\InvertoryManagementSystem\obj\Debug\InvertoryManagementSystem.LoadingPage.resources
